@@ -1,0 +1,2 @@
+rootProject.name='CleverAlarm2'
+include ':app'
